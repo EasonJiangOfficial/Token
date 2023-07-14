@@ -1,3 +1,6 @@
+# Token Project - Tutorial project from Full Stack Web Dev Course by Angela Yu
+I made this project using the series of tutorial videos from the course.
+
 # Check your Balance
 
 1. Find out your principal id:
